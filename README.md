@@ -1,18 +1,18 @@
-//# Sound Detector v1.0
+<b><h1># Sound Detector v1.0</h1></b>
 
 
-//Sound Detector and Air Vibration Sensor
+<em><h3>Sound Detector and Air Vibration Sensor<h3></em>
 
-/* Software Author : Puranjan Gaur.
+/* Software Author : <h4><b><i>Puranjan Gaur.</i></b></h4>
 
-
-Date of publishing : 18-June-2017.
-
-
-Open-Source Hardware under Creative Commons License Agreement.
+<h5>Date of publishing : <h4><b><i> 18-June-2017.</i></b></h4></h5>
 
 
-By Using this project, you agree that the designer will not held responsible for any of your actions. */
+
+<b>Open-Source Hardware under Creative Commons License Agreement.
+
+
+By Using this project, you agree that the designer will not held responsible for any of your actions.</b> */
 
 
 
